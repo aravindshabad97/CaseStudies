@@ -1,4 +1,4 @@
-package inheritance.cs7;
+package inheritance1.cs7;
 
 import java.util.Scanner;
 
