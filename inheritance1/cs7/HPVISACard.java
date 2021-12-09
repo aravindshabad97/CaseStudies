@@ -1,4 +1,4 @@
-package inheritance.cs7;
+package inheritance1.cs7;
 
 public class HPVISACard extends VISACard {
 
